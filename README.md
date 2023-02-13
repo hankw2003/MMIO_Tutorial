@@ -1,6 +1,6 @@
 MMIO_Tutorial
 ====
-This is the tutorial for mmio hardware usages.
+This is the tutorial for mmio nas usages.
 
 Access via Awesun
 ----
