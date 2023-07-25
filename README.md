@@ -29,8 +29,7 @@ cd /nas_backup
 Access via WinSCP
 ----
 1. Donwload the application from the [website](https://winscp.net/eng/download.php "WinSCP")
-2. Select SCP for file protocal, Host name: 140.112.93.195, Port number: 200 (Ref: picture below)
-![image](https://user-images.githubusercontent.com/117650786/216550383-10693cca-1dfc-4ecb-825b-f7c3fb476edd.png)
+2. Select SCP for file protocal, Host name: 140.112.93.195, Port number: 200
 3. Enter /nas_data or /nas_backup in address line
 4. Access like normal file explorer
 
